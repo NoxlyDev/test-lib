@@ -1,0 +1,14 @@
+{
+  "name": "noxaeapi-sdk-test",
+  "version": "1.0.0",
+  "description": "Quick smoke test project for @wumx-labs/noxaeapi-sdk",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@wumx-labs/noxaeapi-sdk": "latest",
+    "dotenv": "^16.4.5"
+  }
+}
