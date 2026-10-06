@@ -5,7 +5,7 @@ import {
   NoxAeApiForbiddenError,
   NoxAeApiNetworkError,
   NoxAeApiError,
-} from "@wumx-labs/noxaeapi-sdk";
+} from "@wumx-labs/noxaeapi-sdkk";
 
 function section(title) {
   console.log(`\n=== ${title} ===`);
