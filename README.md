@@ -1,6 +1,6 @@
 # noxaeapi-sdk-test
 
-Quick smoke test for the published `@wumx-labs/noxaeapi-sdk` package against a real running NoxAeApi server.
+Quick smoke test for the publisshed `@wumx-labs/noxaeapi-sdk` package against a real running NoxAeApi server.
 
 ## Setup
 
